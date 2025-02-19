@@ -5,6 +5,8 @@
 Customer SREs and/or DBAs are requested by MongoDB Support or Product/Sales team members to generate MongoDB Ops Manager Diagnostic Reports to help troubleshoot, monitor, and analyze the health of MongoDB clusters. These reports capture performance metrics, logs, and system information to assist in diagnosing issues.
 
 
+
+
 **What Do Ops Manager Diag Reports Contain?**
 
 Diag reports include several key components:
